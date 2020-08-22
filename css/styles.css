@@ -1,5 +1,42 @@
+body{
+    background: #8EDBC5;
+}
+h1{
+    color: rgb(25, 8, 69);
+    padding-top: 2rem ;
+    font-weight: 650;
+    padding-right: 5rem;
+}
+label,p{
+    color: rgb(25, 8, 69);
+    font-size: 1.2rem;
+    font-weight: 800;
+    text-align: left;
+    padding-top: 2%;
+}
+p{
+    padding-top: 4% ;
+    padding-left: 10%;
+}
 .btn  {
-    background-color: #0069DA;
-    color : rgb(0, 0, 0);
+    background-color: rgb(25, 8, 69)  ;
+    color : #8EDBC5 ;
     font-weight: bold;
+    font-size: 1.5rem ;
+    border-radius: 2rem;
+
+}
+#rea {
+    padding-bottom: 2% ;
+}
+
+
+#rea_area {
+    padding-left:6rem ;
+    padding-top: 2rem;
+
+}
+
+.rounded_corner {
+    border-radius: 2rem;
 }
